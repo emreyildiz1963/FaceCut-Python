@@ -2,7 +2,7 @@
 
 
 
-ImageSave.py dosyanının içinden fotoğraflarımızın bulunduğu klasörü ve kayıt klasörünü ayarlarınız.
+ImageSave.py dosyanının içinden fotoğraflarımızın bulunduğu klasörü ve kayıt klasörünü ayarlıyoruz.
 
 Ne kadar fotoğrafımız varsa bir eksiğini for döngüsüne yazıyoruz.
 
